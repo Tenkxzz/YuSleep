@@ -42,12 +42,12 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
 ---
 
 ## tampilan pas di dalam apk nya 
-  <img alt="Image" style="width: 20%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="1.jpg">
+  <img alt="Image" style="width: 40%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="1.jpg">
   
 ---
 
 ## hasilnya 
-  <img alt="Image" style="width: 20%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="2.jpg">
+  <img alt="Image" style="width: 40%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="2.jpg">
   
 ---
 
@@ -55,11 +55,11 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
 
 <p align="center">
   <a href="https://t.me/Tenkxzz">
-    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a&color=0088cc" height="50"/>
+    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a&color=0088cc" height="300"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_hex404?igsh=c2FwNWU2dTloOHY3">
-    <img src="https://img.shields.io/badge/Follow%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a&color=E4405F" height="50"/>
+    <img src="https://img.shields.io/badge/Follow%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a&color=E4405F" height="300"/>
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
 
 <p align="center">
   <a href="https://github.com/Tenkxzz/YuSleep/releases/tag/v1.0">
-    <img src="https://img.shields.io/badge/Download%20Latest%20Release-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=181717" height="50"/>
+    <img src="https://img.shields.io/badge/Download%20Latest%20Release-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=181717" height="300"/>
   </a>
 </p>
 
