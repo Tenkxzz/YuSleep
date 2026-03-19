@@ -68,5 +68,5 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
     <img src="https://img.shields.io/badge/Download%20Latest%20Release-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=181717" height="50"/>
   </a>
 </p>
----
+
 💤 *YuSleep — simple way to keep an eye on your device.*
