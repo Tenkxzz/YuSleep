@@ -1,26 +1,26 @@
-# 🛌 YuSleep
+#  YuSleep
 
-## 🚀 About
+##  About
 
 **YuSleep** adalah aplikasi Android sederhana untuk menjaga privasi perangkat secara otomatis.
 
 Aplikasi ini akan langsung mengambil foto ketika ada aktivitas tertentu, lalu mengirimkannya ke akun Telegram milik pengguna.
 
-## 🔑 Features
+##  Features
 
-* 📸 **Auto Capture**
+*  **Auto Capture**
   Mengambil foto secara otomatis saat aplikasi diakses.
 
-* 📤 **Telegram Integration**
+*  **Telegram Integration**
   Foto langsung dikirim ke akun Telegram menggunakan bot (user ID & token milik pengguna).
 
-* ⚡ **Background Service**
+*  **Background Service**
   Berjalan di latar belakang tanpa mengganggu penggunaan perangkat.
 
-* 🔒 **Private Setup**
+*  **Private Setup**
   Semua konfigurasi (Telegram ID & bot token) diatur oleh pengguna sendiri di dalam aplikasi.
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User memasukkan **Telegram Bot Token** dan **User ID**
 2. Aplikasi berjalan di background
@@ -29,17 +29,17 @@ Aplikasi ini akan langsung mengambil foto ketika ada aktivitas tertentu, lalu me
    * Kamera mengambil foto
    * Foto dikirim ke Telegram user
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Android (Java/Kotlin)
 * Camera API
 * Telegram Bot API
 
-## 📌 Notes
+##  Notes
 
 Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederhana.
 
-## ✨ Future Ideas
+##  Future Ideas
 
 * Face recognition
 * Multiple trigger modes
