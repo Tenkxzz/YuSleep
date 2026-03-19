@@ -4,7 +4,7 @@
 
 **YuSleep** adalah aplikasi Android sederhana untuk menjaga privasi perangkat secara otomatis.
 
-Aplikasi ini akan langsung mengambil foto ketika ada aktivitas tertentu, lalu mengirimkannya ke akun Telegram milik pengguna.
+Aplikasi ini akan langsung mengambil foto ketika ada ada yg buka hp kita , lalu mengirimkannya ke akun Telegram milik pengguna.
 
 ##  Features
 
@@ -39,13 +39,16 @@ Aplikasi ini akan langsung mengambil foto ketika ada aktivitas tertentu, lalu me
 
 Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederhana.
 
-##  Future Ideas
+---
 
-* Face recognition
-* Multiple trigger modes
-* UI improvement
-* Encryption untuk data sensitif
+## tampilan pas di dalam apk nya 
+  <img alt="Image" style="width: 20%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="1.jpg">
+  
+---
 
+## hasilnya 
+  <img alt="Image" style="width: 20%; max-width: 20px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="2.jpg">
+  
 ---
 
 ## 📞 Contact Developer
