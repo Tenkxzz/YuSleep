@@ -78,7 +78,7 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
 <p align="center">
   <a href="https://github.com/Tenkxzz/YuSleep/releases/tag/v1.0">
     <img src="https://img.shields.io/badge/Download%20Latest%20Release-A9A9A9?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=A9A9A9"
-         style="height:55px; margin:6px;"/>
+         style="height:40px; margin:6px;"/>
   </a>
 </p>
 
