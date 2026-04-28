@@ -61,7 +61,7 @@ Project ini dibuat untuk kebutuhan personal dan eksperimen fitur keamanan sederh
 ## 📞 Contact Developer
 
 <p align="center">
-  <a href="[https://t.me/Tenkxzz](https://t.me/+BOEX1CPXQiNiZDE1)">
+  <a href="https://t.me/YU2K26">
     <img src="https://img.shields.io/badge/channel%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a&color=0088cc"
          style="height:40px; margin:4px;"/>
   </a>
